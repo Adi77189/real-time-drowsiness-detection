@@ -50,10 +50,10 @@ Playsound
 ##  Screenshots
 
 ### Live Eye & Face Detection
-![Live Detection](screenshots/live_detection.png)
+![Live Detection](Screenshots/live_detection.png)
 
 ### Drowsiness Alert
-![Drowsy Alert](screenshots/drowsy_alert.png)
+![Drowsy Alert](Screenshots/drowsy_alert.png)
 
 
 ---
