@@ -47,17 +47,6 @@ Playsound
 
 ---
 
-##  Screenshots
-
-### Live Eye & Face Detection
-![Live Detection](Screenshots/live_detection.png)
-
-### Drowsiness Alert
-![Drowsy Alert](Screenshots/drowsy_alert.png)
-
-
----
-
 ##  Features
 
 - Real-time webcam-based eye monitoring  
